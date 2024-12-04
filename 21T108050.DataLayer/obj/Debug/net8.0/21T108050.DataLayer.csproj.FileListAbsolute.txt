@@ -1,0 +1,11 @@
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T108050.DataLayer\bin\Debug\net8.0\21T108050.DataLayer.deps.json
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T108050.DataLayer\bin\Debug\net8.0\21T108050.DataLayer.dll
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T108050.DataLayer\bin\Debug\net8.0\21T108050.DataLayer.pdb
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T108050.DataLayer\obj\Debug\net8.0\21T108050.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T108050.DataLayer\obj\Debug\net8.0\21T108050.DataLayer.AssemblyInfoInputs.cache
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T108050.DataLayer\obj\Debug\net8.0\21T108050.DataLayer.AssemblyInfo.cs
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T108050.DataLayer\obj\Debug\net8.0\21T108050.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T108050.DataLayer\obj\Debug\net8.0\21T108050.DataLayer.dll
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T108050.DataLayer\obj\Debug\net8.0\refint\21T108050.DataLayer.dll
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T108050.DataLayer\obj\Debug\net8.0\21T108050.DataLayer.pdb
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T108050.DataLayer\obj\Debug\net8.0\ref\21T108050.DataLayer.dll

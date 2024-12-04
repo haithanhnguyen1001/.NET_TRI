@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MinhTri\\Namcuoi(2024-2025)\\laptrinhungdungweb\\SV21T1080050\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16A308E6-86BA-4557-B907-527E61603A91}|SV21T1080050.Web\\SV21T1080050.Web.csproj|c:\\users\\minhtri\\namcuoi(2024-2025)\\laptrinhungdungweb\\sv21t1080050\\sv21t1080050.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A308E6-86BA-4557-B907-527E61603A91}|SV21T1080050.Web\\SV21T1080050.Web.csproj|solutionrelative:sv21t1080050.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E29C27-88D2-4F97-A0EB-6B8CD195D999}|21T1080050.BusinessLayers\\SV21T1080050.BusinessLayers.csproj|c:\\users\\minhtri\\namcuoi(2024-2025)\\laptrinhungdungweb\\sv21t1080050\\21t1080050.businesslayers\\useraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E29C27-88D2-4F97-A0EB-6B8CD195D999}|21T1080050.BusinessLayers\\SV21T1080050.BusinessLayers.csproj|solutionrelative:21t1080050.businesslayers\\useraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F01881A-6E8C-4E50-8B93-848EE5E10134}|21T108050.DataLayer\\SV21T1080050.DataLayers.csproj|c:\\users\\minhtri\\namcuoi(2024-2025)\\laptrinhungdungweb\\sv21t1080050\\21t108050.datalayer\\sqlserver\\employeeaccountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F01881A-6E8C-4E50-8B93-848EE5E10134}|21T108050.DataLayer\\SV21T1080050.DataLayers.csproj|solutionrelative:21t108050.datalayer\\sqlserver\\employeeaccountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F01881A-6E8C-4E50-8B93-848EE5E10134}|21T108050.DataLayer\\SV21T1080050.DataLayers.csproj|c:\\users\\minhtri\\namcuoi(2024-2025)\\laptrinhungdungweb\\sv21t1080050\\21t108050.datalayer\\sqlserver\\customeraccountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F01881A-6E8C-4E50-8B93-848EE5E10134}|21T108050.DataLayer\\SV21T1080050.DataLayers.csproj|solutionrelative:21t108050.datalayer\\sqlserver\\customeraccountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F01881A-6E8C-4E50-8B93-848EE5E10134}|21T108050.DataLayer\\SV21T1080050.DataLayers.csproj|c:\\users\\minhtri\\namcuoi(2024-2025)\\laptrinhungdungweb\\sv21t1080050\\21t108050.datalayer\\iuseraccountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F01881A-6E8C-4E50-8B93-848EE5E10134}|21T108050.DataLayer\\SV21T1080050.DataLayers.csproj|solutionrelative:21t108050.datalayer\\iuseraccountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E29C27-88D2-4F97-A0EB-6B8CD195D999}|21T1080050.BusinessLayers\\SV21T1080050.BusinessLayers.csproj|c:\\users\\minhtri\\namcuoi(2024-2025)\\laptrinhungdungweb\\sv21t1080050\\21t1080050.businesslayers\\orderdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E29C27-88D2-4F97-A0EB-6B8CD195D999}|21T1080050.BusinessLayers\\SV21T1080050.BusinessLayers.csproj|solutionrelative:21t1080050.businesslayers\\orderdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DF9637-8B05-4A97-8FAE-EA4BB7A32C74}|SV21T1080050.DomainModels\\SV21T1080050.DomainModels.csproj|c:\\users\\minhtri\\namcuoi(2024-2025)\\laptrinhungdungweb\\sv21t1080050\\sv21t1080050.domainmodels\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DF9637-8B05-4A97-8FAE-EA4BB7A32C74}|SV21T1080050.DomainModels\\SV21T1080050.DomainModels.csproj|solutionrelative:sv21t1080050.domainmodels\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A308E6-86BA-4557-B907-527E61603A91}|SV21T1080050.Web\\SV21T1080050.Web.csproj|c:\\users\\minhtri\\namcuoi(2024-2025)\\laptrinhungdungweb\\sv21t1080050\\sv21t1080050.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A308E6-86BA-4557-B907-527E61603A91}|SV21T1080050.Web\\SV21T1080050.Web.csproj|solutionrelative:sv21t1080050.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A308E6-86BA-4557-B907-527E61603A91}|SV21T1080050.Web\\SV21T1080050.Web.csproj|c:\\users\\minhtri\\namcuoi(2024-2025)\\laptrinhungdungweb\\sv21t1080050\\sv21t1080050.web\\views\\order\\editdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16A308E6-86BA-4557-B907-527E61603A91}|SV21T1080050.Web\\SV21T1080050.Web.csproj|solutionrelative:sv21t1080050.web\\views\\order\\editdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A308E6-86BA-4557-B907-527E61603A91}|SV21T1080050.Web\\SV21T1080050.Web.csproj|c:\\users\\minhtri\\namcuoi(2024-2025)\\laptrinhungdungweb\\sv21t1080050\\sv21t1080050.web\\views\\order\\searchproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16A308E6-86BA-4557-B907-527E61603A91}|SV21T1080050.Web\\SV21T1080050.Web.csproj|solutionrelative:sv21t1080050.web\\views\\order\\searchproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A308E6-86BA-4557-B907-527E61603A91}|SV21T1080050.Web\\SV21T1080050.Web.csproj|c:\\users\\minhtri\\namcuoi(2024-2025)\\laptrinhungdungweb\\sv21t1080050\\sv21t1080050.web\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16A308E6-86BA-4557-B907-527E61603A91}|SV21T1080050.Web\\SV21T1080050.Web.csproj|solutionrelative:sv21t1080050.web\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 146,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserAccountDAL.cs",
+              "DocumentMoniker": "C:\\Users\\MinhTri\\Namcuoi(2024-2025)\\laptrinhungdungweb\\SV21T1080050\\21T108050.DataLayer\\IUserAccountDAL.cs",
+              "RelativeDocumentMoniker": "21T108050.DataLayer\\IUserAccountDAL.cs",
+              "ToolTip": "C:\\Users\\MinhTri\\Namcuoi(2024-2025)\\laptrinhungdungweb\\SV21T1080050\\21T108050.DataLayer\\IUserAccountDAL.cs",
+              "RelativeToolTip": "21T108050.DataLayer\\IUserAccountDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:25:38.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserAccount.cs",
+              "DocumentMoniker": "C:\\Users\\MinhTri\\Namcuoi(2024-2025)\\laptrinhungdungweb\\SV21T1080050\\SV21T1080050.DomainModels\\UserAccount.cs",
+              "RelativeDocumentMoniker": "SV21T1080050.DomainModels\\UserAccount.cs",
+              "ToolTip": "C:\\Users\\MinhTri\\Namcuoi(2024-2025)\\laptrinhungdungweb\\SV21T1080050\\SV21T1080050.DomainModels\\UserAccount.cs",
+              "RelativeToolTip": "SV21T1080050.DomainModels\\UserAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:10:42.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderDataService.cs",
+              "DocumentMoniker": "C:\\Users\\MinhTri\\Namcuoi(2024-2025)\\laptrinhungdungweb\\SV21T1080050\\21T1080050.BusinessLayers\\OrderDataService.cs",
+              "RelativeDocumentMoniker": "21T1080050.BusinessLayers\\OrderDataService.cs",
+              "ToolTip": "C:\\Users\\MinhTri\\Namcuoi(2024-2025)\\laptrinhungdungweb\\SV21T1080050\\21T1080050.BusinessLayers\\OrderDataService.cs",
+              "RelativeToolTip": "21T1080050.BusinessLayers\\OrderDataService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:57:46.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\MinhTri\\Namcuoi(2024-2025)\\laptrinhungdungweb\\SV21T1080050\\21T1080050.BusinessLayers\\UserAccountService.cs",
+              "RelativeDocumentMoniker": "21T1080050.BusinessLayers\\UserAccountService.cs",
+              "ToolTip": "C:\\Users\\MinhTri\\Namcuoi(2024-2025)\\laptrinhungdungweb\\SV21T1080050\\21T1080050.BusinessLayers\\UserAccountService.cs",
+              "RelativeToolTip": "21T1080050.BusinessLayers\\UserAccountService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:55:11.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerAccountDAL.cs",
+              "DocumentMoniker": "C:\\Users\\MinhTri\\Namcuoi(2024-2025)\\laptrinhungdungweb\\SV21T1080050\\21T108050.DataLayer\\SQLServer\\CustomerAccountDAL.cs",
+              "RelativeDocumentMoniker": "21T108050.DataLayer\\SQLServer\\CustomerAccountDAL.cs",
+              "ToolTip": "C:\\Users\\MinhTri\\Namcuoi(2024-2025)\\laptrinhungdungweb\\SV21T1080050\\21T108050.DataLayer\\SQLServer\\CustomerAccountDAL.cs",
+              "RelativeToolTip": "21T108050.DataLayer\\SQLServer\\CustomerAccountDAL.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:14:47.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeAccountDAL.cs",
+              "DocumentMoniker": "C:\\Users\\MinhTri\\Namcuoi(2024-2025)\\laptrinhungdungweb\\SV21T1080050\\21T108050.DataLayer\\SQLServer\\EmployeeAccountDAL.cs",
+              "RelativeDocumentMoniker": "21T108050.DataLayer\\SQLServer\\EmployeeAccountDAL.cs",
+              "ToolTip": "C:\\Users\\MinhTri\\Namcuoi(2024-2025)\\laptrinhungdungweb\\SV21T1080050\\21T108050.DataLayer\\SQLServer\\EmployeeAccountDAL.cs",
+              "RelativeToolTip": "21T108050.DataLayer\\SQLServer\\EmployeeAccountDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwCIAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:00:37.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MinhTri\\Namcuoi(2024-2025)\\laptrinhungdungweb\\SV21T1080050\\SV21T1080050.Web\\Program.cs",
+              "RelativeDocumentMoniker": "SV21T1080050.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\MinhTri\\Namcuoi(2024-2025)\\laptrinhungdungweb\\SV21T1080050\\SV21T1080050.Web\\Program.cs",
+              "RelativeToolTip": "SV21T1080050.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:36:19.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SearchProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\MinhTri\\Namcuoi(2024-2025)\\laptrinhungdungweb\\SV21T1080050\\SV21T1080050.Web\\Views\\Order\\SearchProduct.cshtml",
+              "RelativeDocumentMoniker": "SV21T1080050.Web\\Views\\Order\\SearchProduct.cshtml",
+              "ToolTip": "C:\\Users\\MinhTri\\Namcuoi(2024-2025)\\laptrinhungdungweb\\SV21T1080050\\SV21T1080050.Web\\Views\\Order\\SearchProduct.cshtml",
+              "RelativeToolTip": "SV21T1080050.Web\\Views\\Order\\SearchProduct.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAF8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T00:42:16.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\MinhTri\\Namcuoi(2024-2025)\\laptrinhungdungweb\\SV21T1080050\\SV21T1080050.Web\\Views\\Order\\EditDetail.cshtml",
+              "RelativeDocumentMoniker": "SV21T1080050.Web\\Views\\Order\\EditDetail.cshtml",
+              "ToolTip": "C:\\Users\\MinhTri\\Namcuoi(2024-2025)\\laptrinhungdungweb\\SV21T1080050\\SV21T1080050.Web\\Views\\Order\\EditDetail.cshtml",
+              "RelativeToolTip": "SV21T1080050.Web\\Views\\Order\\EditDetail.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwCYAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T13:18:35.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\MinhTri\\Namcuoi(2024-2025)\\laptrinhungdungweb\\SV21T1080050\\SV21T1080050.Web\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "SV21T1080050.Web\\Views\\Order\\Details.cshtml",
+              "ToolTip": "C:\\Users\\MinhTri\\Namcuoi(2024-2025)\\laptrinhungdungweb\\SV21T1080050\\SV21T1080050.Web\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "SV21T1080050.Web\\Views\\Order\\Details.cshtml",
+              "ViewState": "AgIAANIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T13:18:11.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\MinhTri\\Namcuoi(2024-2025)\\laptrinhungdungweb\\SV21T1080050\\SV21T1080050.Web\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SV21T1080050.Web\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\MinhTri\\Namcuoi(2024-2025)\\laptrinhungdungweb\\SV21T1080050\\SV21T1080050.Web\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SV21T1080050.Web\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T02:49:42.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 146,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

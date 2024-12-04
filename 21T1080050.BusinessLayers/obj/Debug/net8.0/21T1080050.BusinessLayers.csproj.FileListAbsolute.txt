@@ -1,0 +1,11 @@
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T1080050.BusinessLayers\bin\Debug\net8.0\21T1080050.BusinessLayers.deps.json
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T1080050.BusinessLayers\bin\Debug\net8.0\21T1080050.BusinessLayers.dll
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T1080050.BusinessLayers\bin\Debug\net8.0\21T1080050.BusinessLayers.pdb
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T1080050.BusinessLayers\obj\Debug\net8.0\21T1080050.BusinessLayers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T1080050.BusinessLayers\obj\Debug\net8.0\21T1080050.BusinessLayers.AssemblyInfoInputs.cache
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T1080050.BusinessLayers\obj\Debug\net8.0\21T1080050.BusinessLayers.AssemblyInfo.cs
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T1080050.BusinessLayers\obj\Debug\net8.0\21T1080050.BusinessLayers.csproj.CoreCompileInputs.cache
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T1080050.BusinessLayers\obj\Debug\net8.0\21T1080050.BusinessLayers.dll
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T1080050.BusinessLayers\obj\Debug\net8.0\refint\21T1080050.BusinessLayers.dll
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T1080050.BusinessLayers\obj\Debug\net8.0\21T1080050.BusinessLayers.pdb
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T1080050.BusinessLayers\obj\Debug\net8.0\ref\21T1080050.BusinessLayers.dll

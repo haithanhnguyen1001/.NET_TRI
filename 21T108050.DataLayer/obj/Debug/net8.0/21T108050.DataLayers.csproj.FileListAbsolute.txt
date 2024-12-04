@@ -1,0 +1,15 @@
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T108050.DataLayer\bin\Debug\net8.0\21T108050.DataLayers.deps.json
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T108050.DataLayer\bin\Debug\net8.0\21T108050.DataLayers.dll
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T108050.DataLayer\bin\Debug\net8.0\21T108050.DataLayers.pdb
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T108050.DataLayer\bin\Debug\net8.0\SV21T1080050.DomainModels.dll
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T108050.DataLayer\bin\Debug\net8.0\SV21T1080050.DomainModels.pdb
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T108050.DataLayer\obj\Debug\net8.0\21T108050.DataLayers.csproj.AssemblyReference.cache
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T108050.DataLayer\obj\Debug\net8.0\21T108050.DataLayers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T108050.DataLayer\obj\Debug\net8.0\21T108050.DataLayers.AssemblyInfoInputs.cache
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T108050.DataLayer\obj\Debug\net8.0\21T108050.DataLayers.AssemblyInfo.cs
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T108050.DataLayer\obj\Debug\net8.0\21T108050.DataLayers.csproj.CoreCompileInputs.cache
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T108050.DataLayer\obj\Debug\net8.0\21T10805.1CFAEF5A.Up2Date
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T108050.DataLayer\obj\Debug\net8.0\21T108050.DataLayers.dll
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T108050.DataLayer\obj\Debug\net8.0\refint\21T108050.DataLayers.dll
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T108050.DataLayer\obj\Debug\net8.0\21T108050.DataLayers.pdb
+C:\Users\MinhTri\Namcuoi(2024-2025)\Laptrinhungdungweb\SV21T1080050\21T108050.DataLayer\obj\Debug\net8.0\ref\21T108050.DataLayers.dll

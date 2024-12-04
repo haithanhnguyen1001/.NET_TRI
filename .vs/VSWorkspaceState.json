@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SV21T1080050.DomainModels",
+    "\\SV21T1080050.Web",
+    "\\SV21T1080050.Web\\Controllers",
+    "\\SV21T1080050.Web\\Models",
+    "\\SV21T1080050.Web\\Views",
+    "\\SV21T1080050.Web\\Views\\Customer",
+    "\\SV21T1080050.Web\\Views\\Home",
+    "\\SV21T1080050.Web\\Views\\Order"
+  ],
+  "SelectedNode": "\\SV21T1080050.Web\\Views\\Home\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,137 @@
+﻿@{
+    ViewData["Title"] = "Quản lý bán hàng";
+}
+
+<div class="container my-5">
+    <style>
+        .card {
+            color: #fff;
+            text-align: center;
+            border-radius: 10px;
+        }
+
+            .card .card-body {
+                padding: 20px;
+            }
+
+        .blue {
+            background-color: #007bff;
+        }
+
+        .green {
+            background-color: #28a745;
+        }
+
+        .orange {
+            background-color: #fd7e14;
+        }
+
+        .red {
+            background-color: #dc3545;
+        }
+
+        .chart-container {
+            background-color: #fff;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+    <div class="row">
+        <!--Khách hàng-->
+        <div class="col-md-3 mb-4">
+            <div class="card blue">
+                <div class="card-body">
+                    <h2>1,577</h2>
+                    <p>Khách hàng</p>
+                    <a href="#" class="text-white">Chi tiết</a>
+                </div>
+            </div>
+        </div>
+
+        <!--Doanh thu trong tháng-->
+        <div class="col-md-3 mb-4">
+            <div class="card green">
+                <div class="card-body">
+                    <h2>2,500,000 VNĐ</h2>
+                    <p>Doanh thu trong tháng</p>
+                    <a href="#" class="text-white">Chi tiết</a>
+                </div>
+            </div>
+        </div>
+
+        <!--Doanh thu trong ngày-->
+        <div class="col-md-3 mb-4">
+            <div class="card orange">
+                <div class="card-body">
+                    <h2>140,000 VNĐ</h2>
+                    <p>Doanh thu trong ngày</p>
+                    <a href="#" class="text-white">Chi tiết</a>
+                </div>
+            </div>
+        </div>
+
+        <!--Đơn hàng chờ xử lý-->
+        <div class="col-md-3 mb-4">
+            <div class="card orange">
+                <div class="card-body">
+                    <h2>50</h2>
+                    <p>Đơn hàng chờ xử lý</p>
+                    <a href="#" class="text-white">Chi tiết</a>
+                </div>
+            </div>
+        </div>
+
+        <!--Biểu đồ doanh thu-->
+        <div class="chart-container">
+            <h2>Thống kê doanh thu</h2>
+            <canvas id="revenueChart"></canvas>
+        </div>
+
+
+        <!-- Bootstrap JS and dependencies -->
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+        <!-- Chart.js -->
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+        <script>
+            const ctx = document.getElementById("revenueChart").getContext("2d");
+            const revenueChart = new Chart(ctx, {
+              type: "line",
+              data: {
+                labels: [
+                  "Tháng 1",
+                  "Tháng 2",
+                  "Tháng 3",
+                  "Tháng 4",
+                  "Tháng 5",
+                  "Tháng 6",
+                ],
+                datasets: [
+                  {
+                    label: "Doanh thu (VND)",
+                    data: [
+                      75000000, 50000000, 100000000, 180000000, 120000000, 250000000,
+                    ],
+                    borderColor: "rgba(54, 162, 235, 1)",
+                    backgroundColor: "rgba(54, 162, 235, 0.2)",
+                    borderWidth: 2,
+                    tension: 0.3,
+                  },
+                ],
+              },
+              options: {
+                scales: {
+                  y: {
+                    beginAtZero: true,
+                  },
+                },
+              },
+            });
+        </script>
+
+
+        
+    </div>
+</div>
